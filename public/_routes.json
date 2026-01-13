@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/robots.txt",
+    "/sitemap.xml",
+    "/favicon*",
+    "/apple-touch-icon*",
+    "/logo*"
+  ]
+}
